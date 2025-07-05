@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "description": "Mohammed Khatip: Su experto de confianza para la reparación, mantenimiento y soluciones de software de equipos de juego en toda Europa. Fiable, confidencial, conforme.",
+    "title": "Mohammed Khatip | Experto en Equipos de Juego"
+  },
+  "menu": {
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "equipment": "Equipos",
+    "whyMe": "¿Por qué elegirme?",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Técnico Profesional de Máquinas Tragaperras",
+    "subtitle": "Servicios certificados de reparación y mantenimiento en Europa",
+    "cta": "Solicitar Servicio"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "10+ años en la industria del juego",
+    "text1": "Soy un especialista certificado en máquinas tragaperras Novomatic, IGT y Aristocrat.",
+    "text2": "Ofrezco servicios a casinos y salas de juego en toda Europa, garantizando el pleno cumplimiento de las normativas.",
+    "certified": "Técnico Certificado UE",
+    "experience": "Amplia Experiencia en la Industria",
+    "confidentiality": "Estricta Confidencialidad",
+    "compliance": "Cumplimiento Normativo"
+  },
+  "services": {
+    "title": "Mis Servicios",
+    "subtitle": "Soluciones técnicas completas",
+    "repair": {
+      "title": "Reparación de Hardware",
+      "text": "Diagnóstico y reemplazo de componentes defectuosos"
+    },
+    "software": {
+      "title": "Actualización de Software",
+      "text": "Actualizaciones de firmware y configuración"
+    },
+    "maintenance": {
+      "title": "Mantenimiento Preventivo",
+      "text": "Limpieza e inspección periódicas"
+    },
+    "security": {
+      "title": "Integración de Sistemas de Seguridad",
+      "text": "Instalación y configuración de funciones de seguridad avanzadas"
+    },
+    "networking": {
+      "title": "Soluciones de Redes",
+      "text": "Configuración y resolución de problemas de redes de máquinas"
+    },
+    "consulting": {
+      "title": "Consultoría Técnica",
+      "text": "Asesoramiento experto sobre optimización y actualización de equipos"
+    }
+  },
+  "equipment": {
+    "title": "Equipos Compatibles",
+    "subtitle": "Especializado en marcas líderes",
+    "novomatic": "Novomatic",
+    "igt": "IGT",
+    "aristocrat": "Aristocrat",
+    "eagaming": "EAGaming"
+  },
+  "whyMe": {
+    "title": "¿Por qué elegirme?",
+    "subtitle": "Experiencia y Dedicación Inigualables",
+    "expertise": {
+      "title": "Experiencia Probada",
+      "text": "Años de experiencia práctica con sistemas de juego complejos."
+    },
+    "support": {
+      "title": "Soporte Fiable",
+      "text": "Servicio rápido y eficiente para minimizar el tiempo de inactividad."
+    },
+    "confidentiality": {
+      "title": "Confidencialidad Garantizada",
+      "text": "Su seguridad operativa y privacidad de datos son mi máxima prioridad."
+    },
+    "coverage": {
+      "title": "Cobertura en toda Europa",
+      "text": "Ofreciendo servicios in situ en varias ubicaciones europeas."
+    },
+    "certification": {
+      "title": "Calidad Certificada",
+      "text": "Todos los servicios cumplen con estrictos estándares y certificaciones de la industria."
+    },
+    "optimization": {
+      "title": "Optimización del Rendimiento",
+      "text": "Mejora de la eficiencia y longevidad de la máquina."
+    }
+  },
+  "cta": {
+    "title": "¿Necesita un servicio experto en equipos de juego?",
+    "subtitle": "Contácteme hoy para soluciones fiables y profesionales.",
+    "button": "Obtener una Consulta"
+  },
+  "contact": {
+    "title": "Contactarme",
+    "subtitle": "Disponible en toda Europa para servicio in situ",
+    "phone": "Teléfono:",
+    "email": "Email:",
+    "location": "Con sede en Alemania | Servicio UE",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Dirección de Email",
+      "phone": "Número de Teléfono",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Solicitud"
+    }
+  },
+  "footer": {
+    "tagline": "Servicios profesionales de equipos de juego",
+    "links": {
+      "title": "Enlaces Rápidos"
+    },
+    "legal": "© <span id=\"current-year\"></span> Mohammed Khatip. Todos los derechos reservados.",
+    "compliance": "Dedicado al cumplimiento legal y la confidencialidad del cliente."
+  }
+}

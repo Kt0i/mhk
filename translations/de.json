@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "language": "Deutsch",
+    "author": "Mohammed Khatip",
+    "description": "Mohammed Khatip: Ihr vertrauenswürdiger Experte für Reparatur, Wartung und Softwarelösungen für Spielgeräte in ganz Europa. Zuverlässig, vertraulich, konform.",
+    "title": "Mohammed Khatip | Experte für Spielgeräte"
+  },
+  "menu": {
+    "about": "Über mich",
+    "services": "Dienstleistungen",
+    "equipment": "Ausrüstung",
+    "whyMe": "Warum mich wählen?",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Experte für Spielgeräte: Reparatur, Wartung, Software",
+    "subtitle": "Zuverlässige Lösungen für einen reibungslosen Betrieb Ihres Geschäfts.",
+    "cta": "Kontaktieren Sie mich"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Über 10 Jahre vertrauenswürdige Expertise in der Glücksspielbranche.",
+    "text1": "Mit über einem Jahrzehnt engagierter Erfahrung bin ich auf die Diagnose, Reparatur und Wartung einer breiten Palette von Spielgeräten spezialisiert. Mein Fokus liegt auf der Gewährleistung höchster Standards an Zuverlässigkeit und Vertraulichkeit, die für sensible Operationen entscheidend sind.",
+    "text2": "Ich biete umfassenden technischen Support für kleine Spielhallen, private Automatenbesitzer und große Casinos in ganz Europa, unter strikter Einhaltung aller relevanten Spielvorschriften und Standards. Mein Engagement gilt der betrieblichen Exzellenz und der Minimierung von Ausfallzeiten für Ihr Unternehmen.",
+    "highlight1": "Zertifizierter Techniker mit umfassendem Branchenwissen.",
+    "highlight2": "Strenge Vertraulichkeits- und Datensicherheitsprotokolle.",
+    "highlight3": "Schnelle und effiziente Serviceabwicklung."
+  },
+  "services": {
+    "title": "Meine Dienstleistungen",
+    "subtitle": "Umfassende technische Lösungen für alle Ihre Spielgerätebedürfnisse.",
+    "diagnostic": {
+      "title": "Diagnose & Komplexreparatur",
+      "text": "Experten-Diagnose und Reparatur von elektronischen Komponenten, mechanischen Baugruppen und Peripheriegeräten (Banknotenprüfer, Drucker)."
+    },
+    "firmware": {
+      "title": "Firmware- & Software-Updates",
+      "text": "Parameteränderung, Fehlerbehebung und Installation neuer Software. Alle Arbeiten gewährleisten Legalität und Konformität mit Vorschriften."
+    },
+    "maintenance": {
+      "title": "Vorbeugende Wartung",
+      "text": "Gründliche Reinigung, Schmierung, Prüfung und proaktive Vermeidung von Fehlfunktionen, um den kontinuierlichen Betrieb zu gewährleisten."
+    },
+    "installation": {
+      "title": "Geräteinstallation & -einrichtung",
+      "text": "Professionelle Verbindung, Kalibrierung und Inbetriebnahme neuer Spielgeräte."
+    },
+    "consultation": {
+      "title": "Expertenberatung",
+      "text": "Hilfe bei der Auswahl von Geräten, Betriebsoptimierung und technische Beratung für Ihr Glücksspielgeschäft."
+    }
+  },
+  "equipment": {
+    "title": "Technologien & Marken, mit denen ich arbeite",
+    "subtitle": "Umfassende Expertise bei führenden Herstellern und Industriestandards.",
+    "techTitle": "Wichtige Protokolle & Systeme:",
+    "tech1": "SAS-Protokoll (Slot Accounting System)",
+    "tech2": "JCM Banknotenprüfer",
+    "tech3": "MEI Bargeld-Systeme",
+    "tech4": "IGT Game King Plattform",
+    "tech5": "GLI (Gaming Laboratories International) Standards",
+    "tech6": "TITO (Ticket-In, Ticket-Out) Systeme"
+  },
+  "whyMe": {
+    "title": "Warum meine Dienstleistungen wählen?",
+    "subtitle": "Unerschütterliches Engagement für Qualität, Vertrauen und Effizienz.",
+    "advantage1": {
+      "title": "Nachgewiesene Expertise & Qualifikation",
+      "text": "Jahrelange praktische Erfahrung und kontinuierliche Weiterbildung stellen sicher, dass ich stets auf dem neuesten Stand der Technologien und besten Branchenpraktiken bin."
+    },
+    "advantage2": {
+      "title": "Zuverlässigkeit & Vertraulichkeit",
+      "text": "Ich garantiere äußerste Diskretion und Datensicherheit beim Umgang mit Ihrer sensiblen Ausrüstung und Informationen. Ihr Vertrauen ist meine Priorität."
+    },
+    "advantage3": {
+      "title": "Schnelle Reaktionsfähigkeit",
+      "text": "Schnelle und effiziente Reaktion auf alle Serviceanfragen, wodurch Ausfallzeiten minimiert und ein reibungsloser Betrieb gewährleistet werden."
+    },
+    "advantage4": {
+      "title": "Volle rechtliche Konformität",
+      "text": "Alle Dienstleistungen werden streng im Rahmen der europäischen Glücksspielgesetzgebung und Branchenvorschriften erbracht."
+    },
+    "advantage5": {
+      "title": "Persönlicher Ansatz",
+      "text": "Maßgeschneiderte Lösungen, die speziell an die einzigartigen Bedürfnisse und Herausforderungen Ihres Unternehmens angepasst sind."
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie mich",
+    "subtitle": "Ich bin bereit, zuverlässige Lösungen für Ihre Spielgeräte anzubieten.",
+    "phone": "Telefon:",
+    "email": "E-Mail:",
+    "location": "Service in ganz Europa | Ansässig in Almaty, Kasachstan (Region Jetisu für lokalen Service)",
+    "whatsapp": "Nachricht per WhatsApp senden",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer (Optional)",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    }
+  },
+  "footer": {
+    "tagline": "Professionelle Dienstleistungen für Spielgeräte",
+    "links": {
+      "title": "Schnellzugriff"
+    },
+    "legal": "© <span id=\"current-year\"></span> Mohammed Khatip. Alle Rechte vorbehalten.",
+    "compliance": "Dem gesetzlichen Compliance und der Vertraulichkeit der Kunden verpflichtet."
+  }
+}

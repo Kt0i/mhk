@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "language": "Français",
+    "author": "Mohammed Khatip",
+    "description": "Mohammed Khatip : Votre expert de confiance pour la réparation, l'entretien et les solutions logicielles d'équipements de jeu à travers l'Europe. Fiable, confidentiel, conforme.",
+    "title": "Mohammed Khatip | Expert en Équipements de Jeu"
+  },
+  "menu": {
+    "about": "À propos",
+    "services": "Services",
+    "equipment": "Équipement",
+    "whyMe": "Pourquoi me choisir ?",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Expert en Équipements de Jeu : Réparation, Entretien, Logiciel",
+    "subtitle": "Des solutions fiables pour un fonctionnement ininterrompu de votre entreprise.",
+    "cta": "Me contacter"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Plus de 10 ans d'expertise fiable dans l'industrie du jeu.",
+    "text1": "Avec plus d'une décennie d'expérience dédiée, je me spécialise dans le diagnostic, la réparation et l'entretien d'une large gamme d'équipements de jeu. Mon objectif est d'assurer les normes les plus élevées de fiabilité et de confidentialité, essentielles pour les opérations sensibles.",
+    "text2": "Je fournis un support technique complet aux petits clubs de jeu, aux propriétaires de machines privées et aux grands casinos à travers l'Europe, en adhérant strictement à toutes les réglementations et normes de jeu pertinentes. Mon engagement est l'excellence opérationnelle et la minimisation des temps d'arrêt pour votre entreprise.",
+    "highlight1": "Technicien certifié avec une connaissance approfondie de l'industrie.",
+    "highlight2": "Protocoles stricts de confidentialité et de sécurité des données.",
+    "highlight3": "Prestation de service rapide et efficace."
+  },
+  "services": {
+    "title": "Mes Services",
+    "subtitle": "Des solutions techniques complètes pour tous vos besoins en équipement de jeu.",
+    "diagnostic": {
+      "title": "Diagnostic & Réparation Complexe",
+      "text": "Diagnostic expert et réparation des composants électroniques, des assemblages mécaniques et des périphériques (validateurs de billets, imprimantes)."
+    },
+    "firmware": {
+      "title": "Mises à Jour Firmware & Logiciel",
+      "text": "Modification des paramètres, correction des erreurs et installation de nouveaux logiciels. Tout le travail assure la légalité et la conformité aux réglementations."
+    },
+    "maintenance": {
+      "title": "Maintenance Préventive",
+      "text": "Nettoyage approfondi, lubrification, tests et prévention proactive des dysfonctionnements pour assurer un fonctionnement continu."
+    },
+    "installation": {
+      "title": "Installation & Configuration d'Équipement",
+      "text": "Connexion professionnelle, calibrage et mise en service de nouveaux équipements de jeu."
+    },
+    "consultation": {
+      "title": "Consultation d'Expert",
+      "text": "Assistance dans le choix d'équipement, l'optimisation des opérations et des conseils techniques pour votre entreprise de jeu."
+    }
+  },
+  "equipment": {
+    "title": "Technologies et Marques avec lesquelles je travaille",
+    "subtitle": "Vaste expertise des principaux fabricants et des normes de l'industrie.",
+    "techTitle": "Protocoles et Systèmes Clés :",
+    "tech1": "Protocole SAS (Slot Accounting System)",
+    "tech2": "Validateurs de Billets JCM",
+    "tech3": "Systèmes de Gestion de Fonds MEI",
+    "tech4": "Plateforme IGT Game King",
+    "tech5": "Normes GLI (Gaming Laboratories International)",
+    "tech6": "Systèmes TITO (Ticket-In, Ticket-Out)"
+  },
+  "whyMe": {
+    "title": "Pourquoi Choisir Mes Services ?",
+    "subtitle": "Un engagement inébranlable envers la qualité, la confiance et l'efficacité.",
+    "advantage1": {
+      "title": "Expertise & Qualification Prouvées",
+      "text": "Des années d'expérience pratique et une formation continue garantissent que je suis toujours à jour avec les dernières technologies et les meilleures pratiques de l'industrie."
+    },
+    "advantage2": {
+      "title": "Fiabilité & Confidentialité",
+      "text": "Je garantis la plus grande discrétion et sécurité des données lors de la manipulation de vos équipements et informations sensibles. Votre confiance est ma priorité."
+    },
+    "advantage3": {
+      "title": "Réactivité Rapide",
+      "text": "Réponse rapide et efficace à toutes les demandes de service, minimisant les temps d'arrêt et garantissant le bon fonctionnement de vos opérations."
+    },
+    "advantage4": {
+      "title": "Conformité Légale Complète",
+      "text": "Tous les services sont effectués dans le strict respect de la législation européenne sur les jeux et des réglementations de l'industrie."
+    },
+    "advantage5": {
+      "title": "Approche Personnalisée",
+      "text": "Des solutions sur mesure qui sont spécifiquement adaptées pour répondre aux besoins et défis uniques de votre entreprise."
+    }
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "subtitle": "Je suis prêt à fournir des solutions fiables pour votre équipement de jeu.",
+    "phone": "Téléphone :",
+    "email": "E-mail :",
+    "location": "Service dans toute l'Europe | Basé à Almaty, Kazakhstan (région de Jetisu pour le service local)",
+    "whatsapp": "Envoyer un message sur WhatsApp",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone (Facultatif)",
+      "message": "Votre Message",
+      "submit": "Envoyer le Message",
+      "success": "Message envoyé avec succès !",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "tagline": "Services professionnels d'équipements de jeu",
+    "links": {
+      "title": "Liens Rapides"
+    },
+    "legal": "© <span id=\"current-year\"></span> Mohammed Khatip. Tous droits réservés.",
+    "compliance": "Dédié à la conformité légale et à la confidentialité des clients."
+  }
+}

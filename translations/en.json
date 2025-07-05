@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "language": "English",
+    "author": "Mohammed Khatip",
+    "description": "Mohammed Khatip: Your trusted expert for gaming equipment repair, maintenance, and software solutions across Europe. Reliable, confidential, compliant.",
+    "title": "Mohammed Khatip | Gaming Equipment Expert"
+  },
+  "menu": {
+    "about": "About",
+    "services": "Services",
+    "equipment": "Equipment",
+    "whyMe": "Why Choose Me",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Gaming Equipment Expert: Repair, Maintenance, Software",
+    "subtitle": "Reliable solutions for seamless operation of your business.",
+    "cta": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Over 10 years of trusted expertise in the gaming industry.",
+    "text1": "With over a decade of dedicated experience, I specialize in the diagnosis, repair, and maintenance of a wide range of gaming equipment. My focus is on ensuring the highest standards of reliability and confidentiality, critical for sensitive operations.",
+    "text2": "I provide comprehensive technical support to small gaming clubs, private machine owners, and large casinos across Europe, strictly adhering to all relevant gaming regulations and standards. My commitment is to operational excellence and minimizing downtime for your business.",
+    "highlight1": "Certified Technician with extensive industry knowledge.",
+    "highlight2": "Strict confidentiality and data security protocols.",
+    "highlight3": "Prompt and efficient service delivery."
+  },
+  "services": {
+    "title": "My Services",
+    "subtitle": "Comprehensive technical solutions for all your gaming equipment needs.",
+    "diagnostic": {
+      "title": "Diagnosis & Complex Repair",
+      "text": "Expert diagnosis and repair of electronic components, mechanical assemblies, and peripherals (bill validators, printers)."
+    },
+    "firmware": {
+      "title": "Firmware & Software Updates",
+      "text": "Parameter modification, error correction, and installation of new software. All work ensures legality and compliance with regulations."
+    },
+    "maintenance": {
+      "title": "Preventative Maintenance",
+      "text": "Thorough cleaning, lubrication, testing, and proactive prevention of malfunctions to ensure continuous operation."
+    },
+    "installation": {
+      "title": "Equipment Installation & Setup",
+      "text": "Professional connection, calibration, and commissioning of new gaming equipment."
+    },
+    "consultation": {
+      "title": "Expert Consultation",
+      "text": "Assistance in equipment selection, operational optimization, and technical guidance for your gaming business."
+    }
+  },
+  "equipment": {
+    "title": "Technologies & Brands I Work With",
+    "subtitle": "Extensive expertise across leading manufacturers and industry standards.",
+    "techTitle": "Key Protocols & Systems:",
+    "tech1": "SAS Protocol (Slot Accounting System)",
+    "tech2": "JCM Bill Validators",
+    "tech3": "MEI Cashflow Systems",
+    "tech4": "IGT Game King Platform",
+    "tech5": "GLI (Gaming Laboratories International) Standards",
+    "tech6": "TITO (Ticket-In, Ticket-Out) Systems"
+  },
+  "whyMe": {
+    "title": "Why Choose My Services?",
+    "subtitle": "Unwavering commitment to quality, trust, and efficiency.",
+    "advantage1": {
+      "title": "Proven Expertise & Qualification",
+      "text": "Years of hands-on experience and continuous training ensure that I am always up-to-date with the latest technologies and industry best practices."
+    },
+    "advantage2": {
+      "title": "Reliability & Confidentiality",
+      "text": "I guarantee the utmost discretion and data security when handling your sensitive equipment and information. Your trust is my priority."
+    },
+    "advantage3": {
+      "title": "Prompt Responsiveness",
+      "text": "Fast and efficient response to all service requests, minimizing downtime and ensuring your operations run smoothly."
+    },
+    "advantage4": {
+      "title": "Full Legal Compliance",
+      "text": "All services are conducted strictly within the framework of European gaming legislation and industry regulations."
+    },
+    "advantage5": {
+      "title": "Personalized Approach",
+      "text": "Tailored solutions that are specifically adapted to meet the unique needs and challenges of your business."
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "I'm ready to provide reliable solutions for your gaming equipment.",
+    "phone": "Phone:",
+    "email": "Email:",
+    "location": "Service across Europe | Based in Almaty, Kazakhstan (Jetisu region for local service)",
+    "whatsapp": "Message on WhatsApp",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "footer": {
+    "tagline": "Professional gaming equipment services",
+    "links": {
+      "title": "Quick Links"
+    },
+    "legal": "© <span id=\"current-year\"></span> Mohammed Khatip. All rights reserved.",
+    "compliance": "Dedicated to legal compliance and client confidentiality."
+  }
+}
